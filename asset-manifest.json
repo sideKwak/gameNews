@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9bf50206.css",
+    "main.js": "./static/js/main.87cbf5d3.js",
+    "static/js/453.2d3a34cf.chunk.js": "./static/js/453.2d3a34cf.chunk.js",
+    "static/media/loa.png": "./static/media/loa.84f829522dcf5ef1b87e.png",
+    "static/media/bdo.png": "./static/media/bdo.edae07c15f753f681ad7.png",
+    "static/media/fd.png": "./static/media/fd.077e7730ccd3f4b891c7.png",
+    "static/media/m_loa.png": "./static/media/m_loa.b6df4eaec86cb6cd3722.png",
+    "static/media/m_fst.png": "./static/media/m_fst.806aa9982acb99300bba.png",
+    "static/media/m_bdo.png": "./static/media/m_bdo.6a4d00b2ca4d6b4fa0e2.png",
+    "index.html": "./index.html",
+    "main.9bf50206.css.map": "./static/css/main.9bf50206.css.map",
+    "main.87cbf5d3.js.map": "./static/js/main.87cbf5d3.js.map",
+    "453.2d3a34cf.chunk.js.map": "./static/js/453.2d3a34cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf50206.css",
+    "static/js/main.87cbf5d3.js"
+  ]
+}
